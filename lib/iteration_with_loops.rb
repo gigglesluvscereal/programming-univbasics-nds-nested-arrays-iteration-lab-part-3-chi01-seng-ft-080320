@@ -3,7 +3,7 @@ def join_nested_strings(src)
   # Combine all Strings present in the AoA into a single value and return it
   array = []
   counter = 0 
-  whle counter < src.length 
+  while counter < src.length 
   array.push ("The quick brown fox studied Ruby")
   counter += 1 
 end
