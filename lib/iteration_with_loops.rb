@@ -11,3 +11,5 @@ mixed_data_1.each do |items|
     end
   end
 end
+
+[words.join("")]
